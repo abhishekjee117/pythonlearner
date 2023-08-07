@@ -1,0 +1,12 @@
+pandas
+numpy
+seaborn
+sklearn.preprocessing
+skcriteria
+	Current :
+	New : 
+skcriteria.preprocessing
+scikit-criteria
+	Current : 0.8.3 (original with Anaconda)
+	New : 0.2.11 (required for the project)
+
