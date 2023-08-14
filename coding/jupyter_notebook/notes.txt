@@ -2,3 +2,7 @@ Markdown Cheat-sheet:
 
 https://www.markdownguide.org/cheat-sheet/
 
+Color Guide:
+
+http://www.unm.edu/~tbeach/IT145/color.html#:~:text=HTML%20used%20to%20recognize%2016,those%20are%20red%20and%20white).
+
